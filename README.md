@@ -7,7 +7,7 @@ In this version, the parity of astrobots [1] are all fixed and identicial. [Pari
 
 > If you would like to, totally or partially, use this code, please cite the following paper: 
 
-```bash
+```
 @article{macktoobian2021data,
   title={Data-driven convergence prediction of astrobots swarms},
   author={Macktoobian, Matin and Basciani, Francesco and Gillet, Denis and Kneib, Jean-Paul},
